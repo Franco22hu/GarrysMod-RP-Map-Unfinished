@@ -1,7 +1,7 @@
 # GarrysMod-RP-Map-Unfinished
 **Half-done Garry's Mod RP map-parts to use freely.**
 
-![square_office_police](_images/square_office_police-editor.JPG)
+![square_office_police](_images/square_office_police-editor.jpg)
 
 Between 2009 and 2012, I spent hundreds of hours to create the best RP map I could dream of.
 Sadly it was never finished, but the files I worked on were restored.
