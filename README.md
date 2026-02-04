@@ -47,9 +47,6 @@ An L4D-inspired map part "alley" combined with "office" made into an actual play
 ### [countryhouse](map_parts/countryhouse)
 ![countryhouse](_images/countryhouse.jpg)
 
-### [countryhouse](map_parts/countryhouse)
-![countryhouse](_images/countryhouse.jpg)
-
 ### [garages](map_parts/garages)
 ![garages](_images/garages-interior.jpg)
 
