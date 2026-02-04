@@ -72,7 +72,7 @@ An L4D-inspired map part "alley" combined with "office" made into an actual play
 ### [rowhouse](map_parts/rowhouse)
 ![rowhouse](_images/rowhouse.jpg)
 
-### [square](map_parts/square)
+### [square](map_parts/square_parts)
 ![square-outside](_images/square-outside.jpg)
 ![square-inside](_images/square-inside.jpg)
 
